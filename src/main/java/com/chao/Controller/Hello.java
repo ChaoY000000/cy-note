@@ -6,5 +6,6 @@ package com.chao.Controller;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("调试git环境不能在idea push问题");
     }
 }
